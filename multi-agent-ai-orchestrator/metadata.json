@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Agent AI Orchestrator",
+  "description": "A simulation of a multi-agent AI system with a central controller that orchestrates tasks across multiple worker agents. The application visualizes the entire process, from goal input and AI-driven plan generation to task delegation and execution in sandboxed browser environments.",
+  "requestFramePermissions": []
+}
